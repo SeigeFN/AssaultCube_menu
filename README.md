@@ -1,4 +1,4 @@
-# AssaultCube_shitbot
+# AssaultCube_menu
 --INACTIVE--
 
 terrible aimbot, with some other functionality thrown in
