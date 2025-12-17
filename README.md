@@ -1,12 +1,12 @@
 # AssaultCube_shitbot
 --INACTIVE--
 
-absolute POS aimbot, with some other functionality thrown in
-- buggy ass graphics when aimbot is enabled (L)
+terrible aimbot, with some other functionality thrown in
+- buggy  graphics when aimbot is enabled (L)
 - nospread + rapid fire (not toggleable lol) (O)
 - refil reserve ammo to 9999 (0)
 - double jump(ish) (P)
-- print a lobby entity names (N)
+- print lobby entity names (N)
 
 To use this DLL
 1. install assault cube 1.3.0.2
